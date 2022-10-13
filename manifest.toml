@@ -27,10 +27,6 @@
 
 # ------------------------ >8 ------------------------
 [packages]
-  [packages."cowsay"]
-  channel = "nixpkgs-flox"
-  stability = "stable"
-
   [packages."fortune"]
   channel = "nixpkgs-flox"
   stability = "stable"

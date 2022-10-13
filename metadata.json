@@ -23,8 +23,16 @@
         "Generation 2->3: opc installed flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.fortune"
       ],
       "created": 1665662747,
-      "lastActive": 1665662736
+      "lastActive": 1665662757
+    },
+    "4": {
+      "path": "/nix/store/ri4fscxcabdaxg9yryc3s008fnbvb65r-profile",
+      "logMessage": [
+        "Generation 3->4: opc edited declarative profile"
+      ],
+      "created": 1665662798,
+      "lastActive": 1665662757
     }
   },
-  "currentGen": "3"
+  "currentGen": "4"
 }
