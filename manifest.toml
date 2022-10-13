@@ -26,9 +26,11 @@
 #     version = "7.79"
 
 # ------------------------ >8 ------------------------
-
-# ------------------------ >8 ------------------------
 [packages]
+  [packages."cowsay"]
+  channel = "nixpkgs-flox"
+  stability = "stable"
+
   [packages."hello"]
   channel = "nixpkgs-flox"
   stability = "stable"

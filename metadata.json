@@ -7,8 +7,16 @@
         "Generation 1: opc installed flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.hello"
       ],
       "created": 1665662496,
-      "lastActive": 1665662396
+      "lastActive": 1665662530
+    },
+    "2": {
+      "path": "/nix/store/kbi63nhbdpy81azl3m55qh8qw7rfxdsp-profile",
+      "logMessage": [
+        "Generation 1->2: opc installed flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.cowsay"
+      ],
+      "created": 1665662547,
+      "lastActive": 1665662530
     }
   },
-  "currentGen": "1"
+  "currentGen": "2"
 }
