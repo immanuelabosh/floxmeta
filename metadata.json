@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generations": {
+    "1": {
+      "path": "/nix/store/yfk9lvybf6ygxc4v9q0brdaqkgp8gbbz-profile",
+      "logMessage": [
+        "Generation 1: opc installed flake:nixpkgs-flox#evalCatalog.x86_64-linux.stable.hello"
+      ],
+      "created": 1665662496,
+      "lastActive": 1665662396
+    }
+  },
+  "currentGen": "1"
+}
